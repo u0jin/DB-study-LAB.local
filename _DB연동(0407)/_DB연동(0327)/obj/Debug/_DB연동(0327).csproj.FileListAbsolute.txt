@@ -1,0 +1,49 @@
+c:\users\ujin\documents\visual studio 2013\Projects\_DB연동(0327)\_DB연동(0327)\bin\Debug\_DB연동(0327).exe.config
+c:\users\ujin\documents\visual studio 2013\Projects\_DB연동(0327)\_DB연동(0327)\obj\Debug\_DB연동(0327).csprojResolveAssemblyReference.cache
+c:\users\ujin\documents\visual studio 2013\Projects\_DB연동(0327)\_DB연동(0327)\obj\Debug\_DB연동_0327_.Form1.resources
+c:\users\ujin\documents\visual studio 2013\Projects\_DB연동(0327)\_DB연동(0327)\obj\Debug\_DB연동_0327_.Properties.Resources.resources
+c:\users\ujin\documents\visual studio 2013\Projects\_DB연동(0327)\_DB연동(0327)\obj\Debug\_DB연동(0327).csproj.GenerateResource.Cache
+c:\users\ujin\documents\visual studio 2013\Projects\_DB연동(0327)\_DB연동(0327)\bin\Debug\_DB연동(0327).exe
+c:\users\ujin\documents\visual studio 2013\Projects\_DB연동(0327)\_DB연동(0327)\bin\Debug\_DB연동(0327).pdb
+c:\users\ujin\documents\visual studio 2013\Projects\_DB연동(0327)\_DB연동(0327)\bin\Debug\MySql.Data.dll
+c:\users\ujin\documents\visual studio 2013\Projects\_DB연동(0327)\_DB연동(0327)\obj\Debug\_DB연동(0327).exe
+c:\users\ujin\documents\visual studio 2013\Projects\_DB연동(0327)\_DB연동(0327)\obj\Debug\_DB연동(0327).pdb
+C:\Users\yujin\Desktop\_DB연동(0327)\_DB연동(0327)\bin\Debug\_DB연동(0327).exe.config
+C:\Users\yujin\Desktop\_DB연동(0327)\_DB연동(0327)\obj\Debug\_DB연동(0327).exe
+C:\Users\yujin\Desktop\_DB연동(0327)\_DB연동(0327)\obj\Debug\_DB연동(0327).pdb
+C:\Users\yujin\Desktop\김유진\_DB연동(0327)\_DB연동(0327)\bin\Debug\_DB연동(0327).exe.config
+C:\Users\yujin\Desktop\김유진\_DB연동(0327)\_DB연동(0327)\obj\Debug\_DB연동(0327).exe
+C:\Users\yujin\Desktop\김유진\_DB연동(0327)\_DB연동(0327)\obj\Debug\_DB연동(0327).pdb
+C:\Users\yujin\Desktop\김유진\_DB연동(0327)\_DB연동(0327)\bin\Debug\_DB연동(0327).exe
+C:\Users\yujin\Desktop\김유진\_DB연동(0327)\_DB연동(0327)\bin\Debug\_DB연동(0327).pdb
+C:\Users\yujin\Desktop\김유진\_DB연동(0327)\_DB연동(0327)\obj\Debug\_DB연동(0327).csprojResolveAssemblyReference.cache
+C:\Users\yujin\Desktop\김유진\_DB연동(0327)\_DB연동(0327)\obj\Debug\_DB연동_0327_.Form1.resources
+C:\Users\yujin\Desktop\김유진\_DB연동(0327)\_DB연동(0327)\obj\Debug\_DB연동_0327_.Properties.Resources.resources
+C:\Users\yujin\Desktop\김유진\_DB연동(0327)\_DB연동(0327)\obj\Debug\_DB연동(0327).csproj.GenerateResource.Cache
+C:\Users\yujin\Desktop\김유진\C#- DB공부\_DB연동(0327)-최종\_DB연동(0327)\bin\Debug\_DB연동(0327).exe.config
+C:\Users\yujin\Desktop\김유진\C#- DB공부\_DB연동(0327)-최종\_DB연동(0327)\obj\Debug\_DB연동(0327).exe
+C:\Users\yujin\Desktop\김유진\C#- DB공부\_DB연동(0327)-최종\_DB연동(0327)\obj\Debug\_DB연동(0327).pdb
+C:\Users\yujin\Desktop\김유진\C#- DB공부\_DB연동(0327)-최종\_DB연동(0327)\obj\Debug\_DB연동(0327).csprojResolveAssemblyReference.cache
+C:\Users\yujin\Desktop\김유진\C#- DB공부\_DB연동(0327)-최종\_DB연동(0327)\obj\Debug\_DB연동_0327_.Form1.resources
+C:\Users\yujin\Desktop\김유진\C#- DB공부\_DB연동(0327)-최종\_DB연동(0327)\obj\Debug\_DB연동_0327_.Properties.Resources.resources
+C:\Users\yujin\Desktop\김유진\C#- DB공부\_DB연동(0327)-최종\_DB연동(0327)\obj\Debug\_DB연동(0327).csproj.GenerateResource.Cache
+C:\Users\yujin\Desktop\김유진\C#- DB공부\_DB연동(0327)-최종\_DB연동(0327)\bin\Debug\_DB연동(0327).exe
+C:\Users\yujin\Desktop\김유진\C#- DB공부\_DB연동(0327)-최종\_DB연동(0327)\bin\Debug\_DB연동(0327).pdb
+C:\Users\yujin\Desktop\김유진\C#- DB공부\_DB연동(0407)\_DB연동(0327)\bin\Debug\_DB연동(0327).exe.config
+C:\Users\yujin\Desktop\김유진\C#- DB공부\_DB연동(0407)\_DB연동(0327)\obj\Debug\_DB연동(0327).exe
+C:\Users\yujin\Desktop\김유진\C#- DB공부\_DB연동(0407)\_DB연동(0327)\obj\Debug\_DB연동(0327).pdb
+C:\Users\yujin\Desktop\김유진\C#- DB공부\_DB연동(0407)\_DB연동(0327)\bin\Debug\_DB연동(0327).exe
+C:\Users\yujin\Desktop\김유진\C#- DB공부\_DB연동(0407)\_DB연동(0327)\bin\Debug\_DB연동(0327).pdb
+C:\Users\yujin\Desktop\김유진\C#- DB공부\_DB연동(0407)\_DB연동(0327)\obj\Debug\_DB연동(0327).csprojResolveAssemblyReference.cache
+C:\Users\yujin\Desktop\김유진\C#- DB공부\_DB연동(0407)\_DB연동(0327)\obj\Debug\_DB연동_0327_.Form1.resources
+C:\Users\yujin\Desktop\김유진\C#- DB공부\_DB연동(0407)\_DB연동(0327)\obj\Debug\_DB연동_0327_.Properties.Resources.resources
+C:\Users\yujin\Desktop\김유진\C#- DB공부\_DB연동(0407)\_DB연동(0327)\obj\Debug\_DB연동(0327).csproj.GenerateResource.Cache
+C:\Users\ujin\Desktop\_DB연동(0407)\_DB연동(0327)\bin\Debug\_DB연동(0327).exe.config
+C:\Users\ujin\Desktop\_DB연동(0407)\_DB연동(0327)\obj\Debug\_DB연동(0327).exe
+C:\Users\ujin\Desktop\_DB연동(0407)\_DB연동(0327)\obj\Debug\_DB연동(0327).pdb
+C:\Users\ujin\Desktop\_DB연동(0407)\_DB연동(0327)\bin\Debug\_DB연동(0327).exe
+C:\Users\ujin\Desktop\_DB연동(0407)\_DB연동(0327)\bin\Debug\_DB연동(0327).pdb
+C:\Users\ujin\Desktop\_DB연동(0407)\_DB연동(0327)\obj\Debug\_DB연동(0327).csprojResolveAssemblyReference.cache
+C:\Users\ujin\Desktop\_DB연동(0407)\_DB연동(0327)\obj\Debug\_DB연동_0327_.Form1.resources
+C:\Users\ujin\Desktop\_DB연동(0407)\_DB연동(0327)\obj\Debug\_DB연동_0327_.Properties.Resources.resources
+C:\Users\ujin\Desktop\_DB연동(0407)\_DB연동(0327)\obj\Debug\_DB연동(0327).csproj.GenerateResource.Cache
